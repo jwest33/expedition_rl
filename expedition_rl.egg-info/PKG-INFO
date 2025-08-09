@@ -1,0 +1,7 @@
+Metadata-Version: 2.4
+Name: expedition-rl
+Version: 0.1.0
+Summary: Expedition RL lab env
+Requires-Python: >=3.9
+Requires-Dist: gymnasium
+Requires-Dist: numpy
